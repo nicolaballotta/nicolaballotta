@@ -4,7 +4,7 @@ I'm [Nicola](https://nicola.xyz) and I love to define myself an Hybrid Hacker.
 
 What is a Hybrid Hacker? A Hybrid Hacker can be thought of as a "Swiss Army Knife" of problem-solving. They possess a diverse set of skills, ranging from technical expertise to creative thinking and building useful things.
 
-Here on Github time to time I share the code I use to solve any kind of problem, to automate things (I love that a lot) or simply for fun and learning.
+Here on Github I share the code I use to solve various problems, to automate things (I love that a lot) or simply for fun and learning purposes.
 
 If you want to know more about me:
 
