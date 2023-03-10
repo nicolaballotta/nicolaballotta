@@ -2,7 +2,7 @@
 
 Hi There! 🖖
 
-I'm [Nicola](https://nicola.xyz) and I love to define myself an Hybrid Hacker. 
+I'm [Nicola](https://nicola.xyz) and I love to define myself a Hybrid Hacker. 
 
 What is a Hybrid Hacker? A Hybrid Hacker can be thought of as a "Swiss Army Knife" of problem-solving. They possess a diverse set of skills, ranging from technical expertise to creative thinking and building useful things.
 
